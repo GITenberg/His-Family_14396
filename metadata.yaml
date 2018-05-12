@@ -1,0 +1,34 @@
+_repo: His-Family_14396
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Poole, Ernest
+    birthdate: 1880
+    deathdate: 1950
+    gutenberg_agent_id: '5500'
+    url: http://www.gutenberg.org/2009/agents/5500
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Poole
+description: "His Family is a novel by Ernest Poole published in 1917 about the life\
+  \ of a New York widower and his three daughters in the 1910s. It received the first\
+  \ Pulitzer Prize for the Novel in 1918.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14396'
+  wikidata: Q5771986
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Family -- Fiction'
+- !lcsh 'New York (N.Y.) -- Social conditions -- Fiction'
+title: His Family
+url: http://www.gutenberg.org/ebooks/14396
+wikipedia:
+- https://en.wikipedia.org/wiki/His_Family
